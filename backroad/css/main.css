@@ -410,7 +410,8 @@ p {
 }
 .tour-img {
   height: 15rem;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .tour-date {
   position: absolute;
@@ -506,6 +507,18 @@ p {
   background-color: var(--white);
   font-weight: 700;
 }
+.form::-webkit-input-placeholder {
+  color: var(--clr-gray-3);
+}
+.form::-moz-placeholder {
+  color: var(--clr-gray-3);
+}
+.form:-ms-input-placeholder {
+  color: var(--clr-gray-3);
+}
+.form::-ms-input-placeholder {
+  color: var(--clr-gray-3);
+}
 .form::placeholder {
   color: var(--clr-gray-3);
 }
@@ -557,7 +570,8 @@ p {
 
 .gallary-img {
   height: 17rem;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   transition: var(--transition);
   opacity: 1;
 }
