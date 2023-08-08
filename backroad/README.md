@@ -14,7 +14,7 @@ This is a responsive web application for Backroad Tour, a travel company that of
 
 ## Demo
 
-[Link to the live demo of the Backroad Tour Website](https://backroad-tour-warmarth.netlify.app)
+[Link to the live demo of the Backroad Tour Website](https://backroad.varcel.app)
 
 ![Backroad Tour Responsive Website](./screenshot.png)
 
@@ -23,7 +23,7 @@ This is a responsive web application for Backroad Tour, a travel company that of
 - **Responsive Design:** The website layout adapts smoothly to different screen sizes, ensuring a pleasant browsing experience on all devices.
 - **Offbeat Tours:** Customers can explore various offbeat adventure tours offered by Backroad Tour, with detailed itineraries and pricing information.
 - **Tour Booking:** Users can book tours by selecting the desired dates and number of participants.
-- **Interactive Map:** An interactive map showcases the tour destinations, helping customers visualize the exciting places they will visit.
+
 - **Contact and Support:** The website provides contact information for inquiries and customer support.
 
 ## Technologies Used
